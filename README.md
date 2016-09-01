@@ -1,0 +1,2 @@
+# scripts
+script auto install
